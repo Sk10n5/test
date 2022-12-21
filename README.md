@@ -1,2 +1,1 @@
-# test
-1st
+self Learing test by TZ.
